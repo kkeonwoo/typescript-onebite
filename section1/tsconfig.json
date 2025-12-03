@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ESNext", // 최신 버전
+        "module": "ESNext", // 모듈 시스템 "CommonJS" "ESNext"
+        "outDir": "dist", // js 생성 폴더
+        "strict": true, // 매개변수, 변수 등 타입 엄격 검사
+        "moduleDetection": "force", // 개별 파일 모듈화
+        "skipLibCheck": true, // 라이브러리 타입 검사 제외
+    },
+    "include": ["src"]
+}
