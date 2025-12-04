@@ -31,9 +31,9 @@ function neverExam() {
     let str: string = neverFunc();
     let bool: boolean = neverFunc();
 
-    let never1: never = 10;
-    let never2: never = 'string';
-    let never3: never = true;
+    // let never1: never = 10;
+    // let never2: never = 'string';
+    // let never3: never = true;
 }
 
 /**
